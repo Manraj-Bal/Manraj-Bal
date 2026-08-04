@@ -11,5 +11,7 @@
 
 ---
 
+![snake gif](https://github.com/Manraj-Bal/Manraj-Bal/blob/output/github-snake-dark.svg)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
